@@ -15,7 +15,7 @@ const App = () => {
         <h1>
           Existing Image
         </h1>
-        <img src='/dropout_schedule.jpg' alt='' />
+        <img src='dropout_schedule.jpg' alt='' />
       </div>
     </div>
   );
