@@ -1,26 +1,41 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import theme from 'styles/theme';
+import Schedule from './Schedule';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={styles.app}>
+      <div style={styles.column}>
+        <h1>
+          React Component
+        </h1>
+        <Schedule />
+      </div>
+      <div style={styles.column}>
+        <h1>
+          Existing Image
+        </h1>
+        <img src='/dropout_schedule.jpg' alt='' />
+      </div>
     </div>
   );
+};
+
+const styles = {
+  app: {
+    display: 'flex',
+    height: '100%',
+    backgroundColor: theme.colors.black,
+    color: theme.colors.white,
+  },
+  column: {
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+    justifyContent: 'center',
+    width: '100%',
+    height: '100%',
+  },
 }
 
 export default App;
