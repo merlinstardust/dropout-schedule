@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc10781e55a44de2390abd9baf79137b",
+    "revision": "25353da0081efeb7bf93249e19daf38b",
     "url": "/dropout-schedule/index.html"
   },
   {
-    "revision": "1e883dc7645b0cfcbc18",
+    "revision": "7d6c28af5ed0206e9f4d",
     "url": "/dropout-schedule/static/css/main.bd1f912d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dropout-schedule/static/js/2.3310f33a.chunk.js"
   },
   {
-    "revision": "1e883dc7645b0cfcbc18",
-    "url": "/dropout-schedule/static/js/main.0a6c0a27.chunk.js"
+    "revision": "7d6c28af5ed0206e9f4d",
+    "url": "/dropout-schedule/static/js/main.8f1453ff.chunk.js"
   },
   {
     "revision": "5e90281b709fe93d8972",
