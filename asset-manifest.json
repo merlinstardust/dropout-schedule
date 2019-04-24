@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dropout-schedule/static/css/main.bd1f912d.chunk.css",
+    "main.js": "/dropout-schedule/static/js/main.0a6c0a27.chunk.js",
+    "main.js.map": "/dropout-schedule/static/js/main.0a6c0a27.chunk.js.map",
+    "runtime~main.js": "/dropout-schedule/static/js/runtime~main.92729892.js",
+    "runtime~main.js.map": "/dropout-schedule/static/js/runtime~main.92729892.js.map",
+    "static/js/2.3310f33a.chunk.js": "/dropout-schedule/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/dropout-schedule/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/dropout-schedule/index.html",
+    "precache-manifest.67bd0f5600d8c1c8fbf36b7b0a9793a4.js": "/dropout-schedule/precache-manifest.67bd0f5600d8c1c8fbf36b7b0a9793a4.js",
+    "service-worker.js": "/dropout-schedule/service-worker.js",
+    "static/css/main.bd1f912d.chunk.css.map": "/dropout-schedule/static/css/main.bd1f912d.chunk.css.map"
+  }
+}
